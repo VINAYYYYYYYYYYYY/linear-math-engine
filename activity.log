@@ -76,3 +76,4 @@
 2025-05-09 15:07:01 - feat: implement model evaluation metrics
 2025-05-09 22:01:01 - docs: add comprehensive README
 2025-05-09 22:20:01 - feat: implement core logic
+2025-05-20 10:22:01 - fix: resolve dependency conflicts
