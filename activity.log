@@ -125,3 +125,4 @@
 2025-10-03 22:38:01 - chore: update requirements.txt
 2025-10-10 08:08:01 - feat: implement core logic
 2025-10-10 17:34:01 - test: add unit tests for model validation
+2025-10-10 10:51:01 - docs: document API endpoints
