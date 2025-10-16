@@ -137,3 +137,4 @@
 2025-10-14 17:38:01 - test: add unit tests for model validation
 2025-10-14 17:46:01 - docs: add comprehensive README
 2025-10-16 17:53:01 - test: add unit tests for model validation
+2025-10-16 17:32:01 - fix: resolve dependency conflicts
