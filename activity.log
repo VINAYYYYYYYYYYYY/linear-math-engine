@@ -158,3 +158,4 @@
 2025-11-16 19:14:01 - docs: add comprehensive README
 2025-11-16 22:38:01 - feat: implement core logic
 2025-11-20 16:39:01 - feat: integrate logging and error handling
+2025-11-20 11:52:01 - fix: resolve dependency conflicts
