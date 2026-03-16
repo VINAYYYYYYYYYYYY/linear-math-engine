@@ -1,0 +1,1 @@
+import unittest\nfrom src.main import Matrix\n\nclass TestMath(unittest.TestCase):\n    def test_transpose(self):\n        m = Matrix(2, 3)\n        mt = m.transpose()\n        self.assertEqual(mt.rows, 3)\n\nif __name__ == '__main__':\n    unittest.main()
